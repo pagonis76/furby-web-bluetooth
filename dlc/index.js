@@ -1,7 +1,7 @@
 [
     { 
-        "file": "context.dlc", 
-        "title": "Context Logo",
+        "file": "tu003410_chilli.dlc", 
+        "title": "chili... a new one?",
         "buttons": [
             { "title": "Logo", "action": [75,0,4,4] }
         ]
