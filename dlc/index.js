@@ -1,7 +1,7 @@
 [
     { 
-        "file": "tu003410_chilli.dlc", 
-        "title": "chili... a new one?",
+        "file": "tu.dlc", 
+        "title": "anewone",
         "buttons": [
             { "title": "Logo", "action": [75,0,4,4] }
         ]
