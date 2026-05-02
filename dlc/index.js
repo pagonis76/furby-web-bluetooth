@@ -1,7 +1,7 @@
 [
     { 
-        "file": "tu003150.dlc", 
-        "title": "commircial",
+        "file": "tu010160.dlc", 
+        "title": "dlc again",
         "buttons": [
             { "title": "Logo", "action": [75,0,4,4] }
         ]
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "file": "tu012700.dlc", 
+        "file": "tu012720.dlc", 
         "title": "song pack",
         "buttons": [
             { "title": "believer ", "action": [75,0,1,3] }
