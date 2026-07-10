@@ -15,10 +15,10 @@
         ]
     },
     {
-        "file": "chilli.dlc", 
-        "title": "Chilli",
+        "file": "tu011090.dlc", 
+        "title": "ithinkpartyrock",
         "buttons": [
-            { "title": "Chilli ", "action": [75,0,4,4] }
+            { "title": "idk ", "action": [75,0,4,4] }
         ]
     }
 ]
