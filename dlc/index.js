@@ -15,13 +15,6 @@
         ]
     },
     {
-        "file": "tu011090.dlc, 
-        "title": "Partyrockithink",
-        "buttons": [
-            { "title": "idk ", "action": [75,0,4,4] }
-        ]
-    },
-    {
         "file": "chilli.dlc", 
         "title": "Chilli",
         "buttons": [
