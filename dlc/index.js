@@ -14,6 +14,14 @@
             { "title": "i dont know", "action": [75,0,4,4] }
         ]
     },
+      { 
+        "file": "popfu.dlc", 
+        "title": "furby popstar audio test",
+        "buttons": [
+            { "title": "idk yet", "action": [75,0,3,4] },
+            { "title": "i dont know", "action": [75,0,4,4] }
+        ]
+    },
     {
         "file": "Russian.dlc", 
         "title": "Russian dlc",
