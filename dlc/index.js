@@ -15,8 +15,8 @@
         ]
     },
     {
-        "file": "russiEN.dlc", 
-        "title": "Russian + english dlc test",
+        "file": "Russian.dlc", 
+        "title": "Russian dlc",
         "buttons": [
             { "title": "idk ", "action": [75,0,0,0] }
         ]
