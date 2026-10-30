@@ -15,10 +15,10 @@
         ]
     },
     {
-        "file": "tu011090.dlc", 
-        "title": "ithinkpartyrock",
+        "file": "russiEN.dlc", 
+        "title": "Russian + english dlc test",
         "buttons": [
-            { "title": "idk ", "action": [75,0,4,4] }
+            { "title": "idk ", "action": [75,0,0,0] }
         ]
     }
 ]
