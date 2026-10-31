@@ -15,8 +15,8 @@
         ]
     },
       { 
-        "file": "popfu.dlc", 
-        "title": "furby popstar audio test",
+        "file": "realcus.dlc", 
+        "title": "custom audio through out dlc and custom eye animation testing",
         "buttons": [
             { "title": "idk yet", "action": [75,0,3,4] },
             { "title": "i dont know", "action": [75,0,4,4] }
