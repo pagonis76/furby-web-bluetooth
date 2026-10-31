@@ -19,7 +19,7 @@
         "title": "custom audio through out dlc and custom eye animation testing",
         "buttons": [
             { "title": "Bunch of sounds", "action": [75,0,0,0] },
-            { "title": "i dont know", "action": [75,0,0,3] },
+            { "title": "Animation", "action": [75,0,0,3] },
             { "title": "Schoolhouse Trouble!", "action": [75,0,1,1] },
             { "title": "Schoolhouse Trouble 2!", "action": [75,0,1,5] },
             { "title": "president of the moon plus funny stuff", "action": [75,0,2,6] },
