@@ -24,7 +24,7 @@
             { "title": "Schoolhouse Trouble 2!", "action": [75,0,1,5] },
             { "title": "president of the moon plus funny stuff", "action": [75,0,2,6] },
             { "title": "BUNS KETCHUP PICKLE CHEESE", "action": [75,0,3,4] },
-            { "title": "popstar harmony 3", "action": [75,0,4,4] },
+            { "title": "popstar harmony 3", "action": [75,0,4,4] }
         ]
     },
     {
