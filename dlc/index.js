@@ -7,8 +7,8 @@
         ]
     },
     { 
-        "file": "tu010950.dlc", 
-        "title": "likefireithink",
+        "file": "POPSTAR.dlc", 
+        "title": "POPSTAR TEST",
         "buttons": [
             { "title": "idk yet", "action": [75,0,3,4] },
             { "title": "i dont know", "action": [75,0,4,4] }
