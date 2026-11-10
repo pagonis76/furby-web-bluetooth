@@ -7,11 +7,10 @@
         ]
     },
     { 
-        "file": "POPSTAR.dlc", 
-        "title": "POPSTAR TEST",
+        "file": "firm.dlc", 
+        "title": "popstar mask firmware update",
         "buttons": [
-            { "title": "idk yet", "action": [75,0,3,4] },
-            { "title": "i dont know", "action": [75,0,4,4] }
+            { "title": "nothing", "action": [75,0,0,0] }
         ]
     },
       { 
