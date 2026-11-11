@@ -7,8 +7,8 @@
         ]
     },
     { 
-        "file": "firm.dlc", 
-        "title": "popstar mask firmware update",
+        "file": "m9y3ei.DLC", 
+        "title": "pirate personality replacing base personality firmware update",
         "buttons": [
             { "title": "nothing", "action": [75,0,0,0] }
         ]
